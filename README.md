@@ -29,3 +29,32 @@ This unified design eliminates the need for a separate routing classifier, enabl
 
 ## Keywords
 `ADIF` • `Attention-Driven Interrupt Firmware` • `Universal Approximation Theorem` • `Formal Logic` • `von Neumann Bottleneck` • `Overhead-Free Learnability` • `Typed Lookup Table` • `Reduced Ordered Binary Decision Diagrams` • `Weight-Free Dispatch` • `Subconsciousness` • `Energy Efficiency` • `Biologically-Grounded AI`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Paper citation:
+```bibtex
+@article{tang2026attention,
+  author    = {Tang, Yungui},
+  title     = {Attention-Driven Interrupt Firmware: A Biologically-Grounded Architecture for Artificial Intelligence},
+  journal   = {Zenodo Preprint},
+  year      = {2026},
+  doi       = {10.5281/zenodo.20508617},
+  url       = {https://zenodo.org}
+}
+```
