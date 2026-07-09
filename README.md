@@ -47,7 +47,7 @@ This unified design eliminates the need for a separate routing classifier, enabl
 
 
 
-## Paper citation:
+## Paper Citation:
 ```bibtex
 @article{tang2026attention,
   author    = {Tang, Yungui},
