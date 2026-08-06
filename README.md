@@ -1,4 +1,4 @@
-# Attention-Driven-Interrupt-Firmware
+# Attention-Driven-Interrupt-Firmware-AI
 A Biologically-Grounded Architecture for Artificial Intelligence
 
 ### Research Paper
